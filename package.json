@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "seed": "node -r ./src/seeds/chart.js",
     "start": "nodemon index.js"
   },
   "author": "kmk",

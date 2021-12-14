@@ -7,3 +7,5 @@ In the project directory, you can run:
 ### `npm run test`
 
 ### `npm run start`
+
+### `npm run seed`
